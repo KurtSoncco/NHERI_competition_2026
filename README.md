@@ -5,7 +5,7 @@ Research project for the GSC mini-conference research challenge. This repository
 ## Quickstart
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/KurtSoncco/NHERI_competition_2026.git
 cd NHERI_competition_2026
 ./scripts/bootstrap_env.sh
 source .venv/bin/activate
